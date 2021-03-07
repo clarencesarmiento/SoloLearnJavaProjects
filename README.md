@@ -1,2 +1,2 @@
 # SoloLearn Java Projects
-***Compilations of Java Projects in SoloLearn***
+***Compilation of Java Projects in SoloLearn***
